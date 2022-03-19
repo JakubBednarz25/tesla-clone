@@ -1,0 +1,21 @@
+button {
+  width: 256px;
+  height: 40px;
+  border: 3px;
+  padding: 4px 24px 4px 24px;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: bold;
+  border-radius: 25px;
+  margin: 15px 15px 10px 15px;
+}
+
+.dark-bg {
+  background-color: rgba(23, 26, 32, 0.8);
+  color: #fff;
+}
+
+.light-bg {
+  background-color: rgba(244, 244, 244, 0.65);
+  color: rgb(66, 66, 66);
+}
